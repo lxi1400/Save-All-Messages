@@ -6,4 +6,4 @@ To use, make sure you have the message saver and a members.txt file. Insert your
 
 `pip3 install discord.py==1.7.2`
 
-# Any help, contact lxi#1400
+# Any help, contact @lxi1400 on [discord](https://discord.com)
