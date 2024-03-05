@@ -24,7 +24,7 @@ async def log(ctx, amount: int):
         try:
            print(f"{message.author}:{message.content} ")
            with open('messages.txt', 'a') as (f):
-                f.write(f"{message.author}: {message.content} -  https://canary.discord.com/channels/@me/{ctx.channel.id}/{message.id}\n")
+                f.write(f"{message.author}: {message.content} -  https://discord.com/channels/@me/{ctx.channel.id}/{message.id}\n")
 
         except:
             pass
